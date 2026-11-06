@@ -102,7 +102,3 @@ Animal.gender = "Macho";
 console.log(Animal);
 
 
-
-
-
-
